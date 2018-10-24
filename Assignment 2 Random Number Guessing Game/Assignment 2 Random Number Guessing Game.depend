@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1538361976 source:e:\assignment 2 random number guessing game\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
